@@ -14,7 +14,7 @@ public class HelloWorld {
 	}
 
 	private static Date getLocalCurrentDate() {
-		String m = "Mithun Technologies";
+		String m = "My Technologies";
 		return new Date();
 
 	}
